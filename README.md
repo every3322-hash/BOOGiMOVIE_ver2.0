@@ -12,7 +12,7 @@
 
 ---
 
-## 💡 트러블슈팅 (Troubleshooting)
+## 🧩 트러블슈팅 (Troubleshooting)
 - 문제 : 게시글 이미지 업로드가 안되는 문제 발생하였습니다.
   
 - 원인 : Spring Boot 4로 업그레이드되면서 Spring Security 정책이 강화되어 이미지 업로드 요청이 보안 필터에서 차단되었습니다.
